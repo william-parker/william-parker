@@ -16,9 +16,13 @@ The main goal of SDFB is to visualize and compile historic relationships centere
 
 When the website first loads, every first- and second-degree relationship to Francis Bacon is displayed. Each person is represented by a labeled circle with lines denoting connections between individuals. These circles can be clicked to focus on the connections of a specific individual. Almost unnoticeable on the left side of the screen, under the birth and death dates, are links to Oxford DNB, JSTOR, and Google searches. On the bottom of the screen, the groups that the individual belonged to are also highlighted. The lines can be selected to focus on a relationship between two people. There are also options to view groups and societies to which the historic figures belonged.
 
+![Example of an individual view](https://william-parker.github.io/william-parker/images/one_network.png)
+
 The **HELP** tab at the top of the page shows how to use the website because it can be quite unintuitive to navigate through the relationships and varying views offered. Although it opens a new window when clicked, closing the help tab brings you back to the home screen in the same window. It is almost guaranteed that you will have multiple windows open that are displaying the same information. Each window is extremely resource intense and will slow down and diminish the overall experience. Even loading the page the first time can take a couple of minutes. Once the page loads, it can take several seconds for a click to register and the site to load a new view. It seems like there could be some additional optimization that can be done on the backend to improve the responsiveness.
 
 To the left is a **BROWSE** button that takes you to an alphabetical list of all the people. Here, you can view the references for their relationship, their historical significance, and personal details. There is also a button to visualize each person’s network next to their names. At the top of the page is a **DOWNLOAD ALL PEOPLE** button. However, it downloads a CSV of the page’s HTML code and not an actual list of the people.
+
+![Browse page](https://william-parker.github.io/william-parker/images/browse.png)
 
 Overall, the project achieves its goal of visualizing relationships. Just reading about these connections, it is hard to understand who would have known whom and how. It is a literal social network centered around Francis Bacon.
 
