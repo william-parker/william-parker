@@ -18,7 +18,7 @@ My favorite project from this class was the _Dracula’s Guest_ transcription. A
 
 ![An image of the XML used for Dracula's Guest](https://william-parker.github.io/william-parker/images/XML.png)
 
-During the Review Blog portion of the class, I really enjoyed looking through all the projects. I struggled a little with my review because I chose a more complicated project (you can read my review [here](https://william-parker.github.io/william-parker/2022/02/06/review-blog.html). However, I chose the project because it was so complex, and the idea was cool. It forced me to get creative and provided a challenge.
+During the Review Blog portion of the class, I really enjoyed looking through all the projects. I struggled a little with my review because I chose a more complicated project (you can read my review [here](https://william-parker.github.io/william-parker/2022/02/06/review-blog.html)). However, I chose the project because it was so complex, and the idea was cool. It forced me to get creative and provided a challenge.
 
 ![A static image from Six Degrees Of Francis Bacon](https://william-parker.github.io/william-parker/images/SDoFB_Home.png)
 
