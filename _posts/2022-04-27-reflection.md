@@ -1,6 +1,6 @@
 With the semester coming to a close, it is time for me to reflect on my classes and what they did for me. I think ENGL 350 was probably my hardest class this semester, and not because the work was hard, but because I am not entirely comfortable with non-technical writing.
 
-I knew going into this course that I would I have to write a lot, but I expected it to be more focused on the blogs based on the course description. That is a large part of the reason I chose this class I hate long-form and creative writing. I don’t hate reading it, I am just not a writer myself.
+I knew going into this course that I would I have to write a lot, but I expected it to be more focused on the blogs based on the course description. That is a large part of the reason I chose this class&#150;I hate long-form and creative writing. I don’t hate reading it, I am just not a writer myself.
 
 As a STEM major, most of the writing assignments I encounter are extremely technical and require very little creativity. That was different in this class. Finally, I had to write for the humanities, and it was a steep learning curve. The Grant Project really pushed me to my limits because of this. 
 
