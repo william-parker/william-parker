@@ -1,6 +1,6 @@
 With the semester coming to a close, it is time for me to reflect on my classes and what they did for me. I think ENGL 350 was probably my hardest class this semester, and not because the work was hard, but because I am not entirely comfortable with non-technical writing.
 
-I knew going into this course that I would I have to write a lot, but I expected it to be more focused on the blogs based on the course description. That is a large part of the reason I chose this class—I hate long-form and creative writing. I don’t hate reading it, I am just not a writer myself.
+I knew going into this course that I would I have to write a lot, but I expected it to be more focused on the blogs based on the course description. That is a large part of the reason I chose this class I hate long-form and creative writing. I don’t hate reading it, I am just not a writer myself.
 
 As a STEM major, most of the writing assignments I encounter are extremely technical and require very little creativity. That was different in this class. Finally, I had to write for the humanities, and it was a steep learning curve. The Grant Project really pushed me to my limits because of this. 
 
@@ -14,9 +14,9 @@ I learned that DH covers a broad category of research projects and websites. Alm
 
 The very first assignment that we had was the “About Me” blog post. Learning how to use GitHub pages will benefit me later on when I make a personal website for potential employers. On top of that, learning to markup text helps to learn how read already marked up text.
 
-My favorite project from this class was the Dracula’s Guest transcription. Although I had never used XML specifically before, I do have experience with HTML. The transition is easy to make since they are so similar. I did rush through that project and made a couple of careless mistakes, but I had fun with it.
+My favorite project from this class was the _Dracula’s Guest_ transcription. Although I had never used XML specifically before, I do have experience with HTML. The transition is easy to make since they are so similar. I did rush through that project and made a couple of careless mistakes, but I had fun with it.
 
-During the Review Blog portion of the class, I really enjoyed looking through all the projects. I struggled a little with my review because I chose a more complicated project (You can read my review here). However, I chose the project because it was so complex, and the idea was cool. It forced me to get creative and provided a challenge.
+During the Review Blog portion of the class, I really enjoyed looking through all the projects. I struggled a little with my review because I chose a more complicated project (you can read my review [here]{https://william-parker.github.io/william-parker/2022/02/06/review-blog.html}). However, I chose the project because it was so complex, and the idea was cool. It forced me to get creative and provided a challenge.
 
 A lot of what we worked on this semester was being concise in our writing. I have never been accused of not being concise enough. In fact, many times I struggle to meet minimum word counts because I am too concise. This class has helped me to find that sweet spot between providing too few details and too many.
 
