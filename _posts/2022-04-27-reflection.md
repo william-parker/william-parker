@@ -16,11 +16,11 @@ The very first assignment that we had was the “About Me” blog post. Learning
 
 My favorite project from this class was the _Dracula’s Guest_ transcription. Although I had never used XML specifically before, I do have experience with HTML. The transition is easy to make since they are so similar. I did rush through that project and made a couple of careless mistakes, but I had fun with it.
 
-![An image of the XML used for Dracula's Guest]{}
+![An image of the XML used for Dracula's Guest]{https://william-parker.github.io/william-parker/images/XML.png}
 
 During the Review Blog portion of the class, I really enjoyed looking through all the projects. I struggled a little with my review because I chose a more complicated project (you can read my review [here]{https://william-parker.github.io/william-parker/2022/02/06/review-blog.html}). However, I chose the project because it was so complex, and the idea was cool. It forced me to get creative and provided a challenge.
 
-![A static image from Six Degrees Of Francis Bacon]{}
+![A static image from Six Degrees Of Francis Bacon]{https://william-parker.github.io/william-parker/images/SDoFB_Home.png}
 
 A lot of what we worked on this semester was being concise in our writing. I have never been accused of not being concise enough. In fact, many times I struggle to meet minimum word counts because I am too concise. This class has helped me to find that sweet spot between providing too few details and too many.
 
